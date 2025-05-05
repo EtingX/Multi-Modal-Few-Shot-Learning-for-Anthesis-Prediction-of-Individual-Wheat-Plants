@@ -14,6 +14,10 @@ evaluate_metal_learning_model_3.py: used to evaluate the trained meta-learning m
 
 few_shot_learning_inference_4.py: performs inference using few-shot learning.
 
+Few-shot learning one-step TRF and Few-shot learning one-step TRF (no TRF anchor) are used to test different anchor configurations in few-shot learning.
+
+Few-shot learning (no weather) is an ablation study. Do not use models that include weather input for this test.
+
 Hints:
 
 Dataset TPA 1 2023 corresponds to the Early dataset.
